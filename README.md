@@ -1,1 +1,1 @@
-# -tude-courbe-de-croissance-par-r-gression
+# Étude-courbe-de-croissance-par-r-gression
